@@ -1,0 +1,3 @@
+[submodule "cubee-api-server"]
+	path = cubee-api-server
+	url = https://github.com/gocreating/cubee-api-server
